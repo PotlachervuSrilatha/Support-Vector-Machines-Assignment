@@ -1,1 +1,1 @@
-# Support-Vector-Machines-Assignment
+# Support-Vector-Machine-Assignment
